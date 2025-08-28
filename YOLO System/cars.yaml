@@ -1,0 +1,7 @@
+path: /root/.cache/kagglehub/datasets/seyeon040768/car-detection-dataset/versions/1/car_dataset-master/ 
+train: /root/.cache/kagglehub/datasets/seyeon040768/car-detection-dataset/versions/1/car_dataset-master/train/
+val: /root/.cache/kagglehub/datasets/seyeon040768/car-detection-dataset/versions/1/car_dataset-master/valid/
+
+# Classes
+nc: 1  # number of classes
+names: [ 'car']  # class names
