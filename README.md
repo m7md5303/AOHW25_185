@@ -42,10 +42,16 @@ of FPGAs.</p>
 </p>
 <h1>Steps to build:</h1>
 <h2>YOLO System:</h2>
-<h3>ZCU102</h3>
-<p>Create new Vitis platform using the provided XSA file (yolo_zcu102.xsa) <span><a href="https://docs.amd.com/r/en-US/ug1400-vitis-embedded/Creating-a-Platform-Component-from-XSA">doc</a>a></span> <br>
+<h3>ZCU102:</h3>
+<p>Create new Vitis platform using the provided XSA file (yolo_zcu102.xsa) <span><a href="https://docs.amd.com/r/en-US/ug1400-vitis-embedded/Creating-a-Platform-Component-from-XSA">doc</a></span> <br>
 Add the main.c file to the project sources and the provided testing image header file as well.
 <br>
-Create new debugging configuration (GDB) <span><a href="https://xilinx.github.io/Embedded-Design-Tutorials/docs/2022.1/build/html/docs/Introduction/Zynq7000-EDT/3-debugging-vitis.html">doc</a>a></span>
+Create new debugging configuration (GDB) <span><a href="https://xilinx.github.io/Embedded-Design-Tutorials/docs/2022.1/build/html/docs/Introduction/Zynq7000-EDT/3-debugging-vitis.html">doc</a></span>
 <br>
 After Clicking run, open Vivado for viewing the output waveform on the ILA</p>
+<h3>PYNQ-Z2:</h3>
+<p>Setup the PYNQ image for PYNQ-Z2 <span><a href="https://pynq.readthedocs.io/en/v2.3/getting_started/pynq_z2_setup.html">doc</a></span>
+<br>
+Browse to the board address, upload the provided files to their specified locations in the notebook, the run all cells for watching the output
+<br>
+Provided testing image can be found with name img2.txt</p>
