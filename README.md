@@ -68,7 +68,7 @@ Provided testing image can be found with name test1_crop.txt</p>
 <ul>
   <li><h5>You should note that the last cell is to be run twice due to issues related to the AXI DMA IP on Jupyter Notebooks.</h5></li>
 </ul>
-<h1>Reference:</h1>
+<h1>References:</h1>
 <ul>
   <li>"Pure-Hardware YOLO-Inference via FPGAs," in Conf. ICECS'25, Marrakesh, Accepted manuscript-in press</li>
   <li>2025. “Lane Detector Vehicle”. Manuscript submitted for publication to NILES25</li>
