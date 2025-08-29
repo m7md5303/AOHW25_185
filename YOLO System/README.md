@@ -2,7 +2,7 @@
 <p>The used YOLO model can be found <span><a href="https://github.com/sefaburakokcu/quantized-yolov5">here</a></span>
 , some small edits were done for configuring the model with the desired dataset. The ready model is included as "EA_lpyolo.rar
 <br>
-Additionally, the configuration file for the used <span><a href="https://www.kaggle.com/datasets/seyeon040768/car-detection-dataset">dataset</a></span>is provided as cars.yaml
+Additionally, the configuration file for the used <span><a href="https://www.kaggle.com/datasets/seyeon040768/car-detection-dataset">dataset</a></span> is provided as cars.yaml
 <br>
 The uploaded Jupyter Notebooks are for the rest of the flow:</p>
 <ul>
