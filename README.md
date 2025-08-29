@@ -8,12 +8,12 @@ of FPGAs.</p>
 <h1>Team Members</h1>
 <ul>
   <li>Mohamed Khaled, Email:<a href="mailto:m7md5303@gmail.com">m7md5303@gmail.com</a></li>
-  <li>Saber Mahmoud, Email:saber.mahmoud702@eng-st.cu.edu.eg</li>
-  <li>Saif Gebril, Email:saifnasser144@gmail.com </li>
-  <li>Saleh Sharouk, Email:salehhesham529@gmail.com</li>
-  <li>Seif M. Megahed, Email:seifmegahed13@gmail.com</li>
+  <li>Saber Mahmoud, Email:<a href="mailto:saber.mahmoud702@eng-st.cu.edu.eg">saber.mahmoud702@eng-st.cu.edu.eg</a></li>
+  <li>Saif Gebril, Email:<a href="mailto:saifnasser144@gmail.com">saifnasser144@gmail.com </a></li>
+  <li>Saleh Sharouk, Email:<a href="mailto:salehhesham529@gmail.com">salehhesham529@gmail.com</a></li>
+  <li>Seif M. Megahed, Email:<a href="mailto:seifmegahed13@gmail.com">seifmegahed13@gmail.com</a></li>
 </ul>
 <h3>Supervisor:</h3>
 <ul>
-  <li>Dr.Ibrahim M.I. Qamar, Email:ibrqamar@gmail.com</li>
+  <li>Dr.Ibrahim M.I. Qamar, Email:<a href="ibrqamar@gmail.com">ibrqamar@gmail.com</a></li>
 </ul>
