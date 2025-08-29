@@ -15,7 +15,7 @@ of FPGAs.</p>
 </ul>
 <h3>Supervisor:</h3>
 <ul>
-  <li>Dr.Ibrahim M.I. Qamar, Email:<a href="ibrqamar@gmail.com">ibrqamar@gmail.com</a></li>
+  <li>Dr.Ibrahim M. I. Qamar, Email:<a href="ibrqamar@gmail.com">ibrqamar@gmail.com</a></li>
 </ul>
 <h1>Boards Used:</h1>
 <ul>
@@ -29,3 +29,14 @@ of FPGAs.</p>
   <li>FINN Framework</li>
   <li>PYNQ image v3.0.1</li>
 </ul>
+<h1>Repository Architecture:</h1>
+<p>
+  YOLO System folder: This directory includes all the source files for implenting the YOLO Hardware System from scratch (Training Step)
+  <br>
+  It has two sub-directories ZCU102_HW and PYNQ-Z2_HW, where both includes either Vitis files in case of ZCU102 or the Jupyter Notebook required files in the case of PYNQ-Z2.
+</p>
+<p>
+  Lane System folder: This directory includes all the design file for the Lane block
+  <br>
+  It has one sub-directory: PYNQ-Z2_HW, which includes the required files for the Jupyter Notebook operation on this very design.
+</p>
