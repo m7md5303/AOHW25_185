@@ -17,3 +17,8 @@ of FPGAs.</p>
 <ul>
   <li>Dr.Ibrahim M.I. Qamar, Email:<a href="ibrqamar@gmail.com">ibrqamar@gmail.com</a></li>
 </ul>
+<h1>Boards Used:</h1>
+<ul>
+  <li>YOLO Block was deployed on: ZCU102 and PYNQ-Z2 (with different levels of set parallelism)</li>
+  <li>Sobel Block was deployed on: PYNQ-Z2</li>
+</ul>
