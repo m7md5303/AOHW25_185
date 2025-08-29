@@ -1,10 +1,10 @@
 <h1>Accelerated YOLO-Based Computer Vision System</h1>
 <br>
 <p>The trend towards full autonomous cars has increased widely recently. Hence, the purpose of this project is to provide pure-hardware systems allowing for
-autonomous driving or any self-moving robot. Our work two main components are YOLO-based object detector for detecting cars and Sobel-based edge detector for detecting lanes.
-Both the systems are free from software with just employing hardware blocks. Reaching FPS of 67 for the YOLO block and about 800 FPS for the Sobel block, one would employ
+autonomous driving or serving any self-moving robot. Our work two main components are YOLO-based object detector for detecting cars and Sobel-based edge detector for detecting lanes.
+Both the systems are free from software with just employing hardware blocks. Reaching FPS of 67 for the YOLO block and about 800 FPS for the Sobel block, one is encouraged to employ
 these blocks in his system. This project is pretty suitable for edge-computing devices with performing heavy-computational tasks on the Programmable Logic (PL)
-of FPGAs.</p>
+of FPGAs with reasonable utilization.</p>
 <h1>Team Members</h1>
 <ul>
   <li>Mohamed Khaled, Email:<a href="mailto:m7md5303@gmail.com"> m7md5303@gmail.com</a></li>
