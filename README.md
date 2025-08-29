@@ -17,6 +17,10 @@ of FPGAs with reasonable utilization.</p>
 <ul>
   <li>Dr.Ibrahim M. I. Qamar, Email:<a href="ibrqamar@gmail.com"> ibrqamar@gmail.com</a></li>
 </ul>
+<h3>Institution</h3>
+<ul>
+  <li>Electronics and Electrical Communications Department, Faculty of Engineering at Cairo University</li>
+</ul>
 <h1>Boards Used:</h1>
 <ul>
   <li>YOLO Block was deployed on: ZCU102 and PYNQ-Z2 (Applied different levels of set parallelism and clock frequency)</li>
