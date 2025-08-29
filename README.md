@@ -40,3 +40,12 @@ of FPGAs.</p>
   <br>
   It has one sub-directory: PYNQ-Z2_HW, which includes the required files for the Jupyter Notebook operation on this very design.
 </p>
+<h1>Steps to build:</h1>
+<h2>YOLO System:</h2>
+<h3>ZCU102</h3>
+<p>Create new Vitis platform using the provided XSA file (yolo_zcu102.xsa) <span><a href="https://docs.amd.com/r/en-US/ug1400-vitis-embedded/Creating-a-Platform-Component-from-XSA">doc</a>a></span> <br>
+Add the main.c file to the project sources and the provided testing image header file as well.
+<br>
+Create new debugging configuration (GDB) <span><a href="https://xilinx.github.io/Embedded-Design-Tutorials/docs/2022.1/build/html/docs/Introduction/Zynq7000-EDT/3-debugging-vitis.html">doc</a>a></span>
+<br>
+After Clicking run, open Vivado for viewing the output waveform on the ILA</p>
