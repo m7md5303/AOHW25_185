@@ -7,7 +7,7 @@ these blocks in his system. This project is pretty suitable for edge-computing d
 of FPGAs.</p>
 <h1>Team Members</h1>
 <ul>
-  <li>Mohamed Khaled, Email:<mailto m7md5303@gmail.com/></li>
+  <li>Mohamed Khaled, Email:<a href="mailto:m7md5303@gmail.com">m7md5303@gmail.com</a></li>
   <li>Saber Mahmoud, Email:saber.mahmoud702@eng-st.cu.edu.eg</li>
   <li>Saif Gebril, Email:saifnasser144@gmail.com </li>
   <li>Saleh Sharouk, Email:salehhesham529@gmail.com</li>
