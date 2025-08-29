@@ -7,15 +7,15 @@ these blocks in his system. This project is pretty suitable for edge-computing d
 of FPGAs.</p>
 <h1>Team Members</h1>
 <ul>
-  <li>Mohamed Khaled, Email:<a href="mailto:m7md5303@gmail.com">m7md5303@gmail.com</a></li>
-  <li>Saber Mahmoud, Email:<a href="mailto:saber.mahmoud702@eng-st.cu.edu.eg">saber.mahmoud702@eng-st.cu.edu.eg</a></li>
-  <li>Saif Gebril, Email:<a href="mailto:saifnasser144@gmail.com">saifnasser144@gmail.com </a></li>
-  <li>Saleh Sharouk, Email:<a href="mailto:salehhesham529@gmail.com">salehhesham529@gmail.com</a></li>
-  <li>Seif M. Megahed, Email:<a href="mailto:seifmegahed13@gmail.com">seifmegahed13@gmail.com</a></li>
+  <li>Mohamed Khaled, Email:<a href="mailto:m7md5303@gmail.com"> m7md5303@gmail.com</a></li>
+  <li>Saber Mahmoud, Email:<a href="mailto:saber.mahmoud702@eng-st.cu.edu.eg"> saber.mahmoud702@eng-st.cu.edu.eg</a></li>
+  <li>Saif Gebril, Email:<a href="mailto:saifnasser144@gmail.com"> saifnasser144@gmail.com </a></li>
+  <li>Saleh Sharouk, Email:<a href="mailto:salehhesham529@gmail.com"> salehhesham529@gmail.com</a></li>
+  <li>Seif M. Megahed, Email:<a href="mailto:seifmegahed13@gmail.com"> seifmegahed13@gmail.com</a></li>
 </ul>
 <h3>Supervisor:</h3>
 <ul>
-  <li>Dr.Ibrahim M. I. Qamar, Email:<a href="ibrqamar@gmail.com">ibrqamar@gmail.com</a></li>
+  <li>Dr.Ibrahim M. I. Qamar, Email:<a href="ibrqamar@gmail.com"> ibrqamar@gmail.com</a></li>
 </ul>
 <h1>Boards Used:</h1>
 <ul>
@@ -36,7 +36,7 @@ of FPGAs.</p>
   It has two sub-directories ZCU102_HW and PYNQ-Z2_HW, where both includes either Vitis files in case of ZCU102 or the Jupyter Notebook required files in the case of PYNQ-Z2.
 </p>
 <p>
-  Lane System folder: This directory includes all the design file for the Lane block
+  Lane System folder: This directory includes all the design files for the Lane block
   <br>
   It has one sub-directory: PYNQ-Z2_HW, which includes the required files for the Jupyter Notebook operation on this very design.
 </p>
@@ -67,4 +67,9 @@ Browse to the board address, upload the provided files to their specified locati
 Provided testing image can be found with name test1_crop.txt</p>
 <ul>
   <li><h5>You should note that the last cell is to be run twice due to issues related to the AXI DMA IP on Jupyter Notebooks.</h5></li>
+</ul>
+<h1>Reference:</h1>
+<ul>
+  <li>"Pure-Hardware YOLO-Inference via FPGAs," in Conf. ICECS'25, Marrakesh, Accepted manuscript-in press</li>
+  <li>2025. “Lane Detector Vehicle”. Manuscript submitted for publication to NILES25</li>
 </ul>
