@@ -55,4 +55,16 @@ After Clicking run, open Vivado for viewing the output waveform on the ILA</p>
 Browse to the board address, upload the provided files to their specified locations in the notebook, then run all cells for watching the output
 <br>
 Provided testing image can be found with name img2.txt</p>
-<h5>You should note that the last cell is to be run twice due to issues related to the AXI DMA IP on Jupyter Notebooks.</h5>
+<ul>
+  <li><h5>You should note that the last cell is to be run twice due to issues related to the AXI DMA IP on Jupyter Notebooks.</h5></li>
+</ul>
+<h2>Lane System:</h2>
+<h3>PYNQ-Z2:</h3>
+<p>Setup the PYNQ image for PYNQ-Z2 <span><a href="https://pynq.readthedocs.io/en/v2.3/getting_started/pynq_z2_setup.html">doc</a></span>
+<br>
+Browse to the board address, upload the provided files to their specified locations in the notebook, then run all cells for watching the output
+<br>
+Provided testing image can be found with name test1_crop.txt</p>
+<ul>
+  <li><h5>You should note that the last cell is to be run twice due to issues related to the AXI DMA IP on Jupyter Notebooks.</h5></li>
+</ul>
