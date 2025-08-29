@@ -19,6 +19,13 @@ of FPGAs.</p>
 </ul>
 <h1>Boards Used:</h1>
 <ul>
-  <li>YOLO Block was deployed on: ZCU102 and PYNQ-Z2 (with different levels of set parallelism)</li>
+  <li>YOLO Block was deployed on: ZCU102 and PYNQ-Z2 (Applied different levels of set parallelism)</li>
   <li>Sobel Block was deployed on: PYNQ-Z2</li>
+</ul>
+<h1>Software Needed:</h1>
+<ul>
+  <li>Vivado 2022.2</li>
+  <li>Vitis IDE 2022.2</li>
+  <li>FINN Framework</li>
+  <li>PYNQ image v3.0.1</li>
 </ul>
