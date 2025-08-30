@@ -60,7 +60,7 @@ Browse to the board address, upload the provided files to their specified locati
 <br>
 Provided testing image can be found with name img2.txt</p>
 <ul>
-  <li><h5>You should note that the last cell is to be run twice due to issues related to the AXI DMA IP on Jupyter Notebooks.</h5></li>
+  <li>You should note that the last cell is to be run twice due to issues related to the AXI DMA IP on Jupyter Notebooks.</li>
 </ul>
 <h2>Lane System:</h2>
 <h3>PYNQ-Z2:</h3>
@@ -70,7 +70,7 @@ Browse to the board address, upload the provided files to their specified locati
 <br>
 Provided testing image can be found with name test1_crop.txt</p>
 <ul>
-  <li><h5>You should note that the last cell is to be run twice due to issues related to the AXI DMA IP on Jupyter Notebooks.</h5></li>
+  <li>You should note that the last cell is to be run twice due to issues related to the AXI DMA IP on Jupyter Notebooks.</li>
 </ul>
 <h1>References:</h1>
 <ul>
